@@ -92,9 +92,9 @@ function setVolume(name, volume) {
 }
 
 // Ejemplo de cómo añadir botones, puedes personalizar estos según tus necesidades
-createSoundButton('APLAUSOS', 'APLAUSOS2.mp3', '1');
-createSoundButton('BATERIA RISA', 'BATERIA.mp3', '2');
-createSoundButton('CABRA', 'CABRAGRITANDO.mp3');
+createSoundButton('APLAUSOS', 'APLAUSOS2.mp3', '0');
+createSoundButton('BATERIA RISA', 'BATERIA.mp3', '1');
+createSoundButton('CABRA', 'CABRAGRITANDO.mp3','2');
 createSoundButton('TRISTEZA PERDER', 'CONEJOSFALLA.mp3', '3');
 createSoundButton('CORRECTO', 'CORRECTO.mp3', '4');
 createSoundButton('ERROR', 'ERROR.mp3', '5');
@@ -103,4 +103,4 @@ createSoundButton('RISA BURLONA', 'RISABURLONA.mp3', '6');
 createSoundButton('REDOBLE', 'TAMBORES.mp3', '7');
 createSoundButton('TITANIC', 'TITANIC.mp3', '8');
 createSoundButton('DEMORAS', 'UNAETERNIDAD.mp3', '9');
-createSoundButton('WHAT', 'WHAT.mp3', '0');
+createSoundButton('WHAT', 'WHAT.mp3', 'a');
